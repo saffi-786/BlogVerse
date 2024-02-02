@@ -143,14 +143,14 @@ function Footer() {
     //   </div>
     // </section>
 
-    <section className="flex justify-between bg-amber-200 fixed bottom-0 w-full overflow-hidden py-3">
+    <section className="md:flex md:justify-between text-center bg-amber-200 fixed bottom-0 w-full overflow-hidden py-3">
       <div>
         <p className="text-sm text-slate-700 pl-5">
           &copy; Copyright 2023. All Rights Reserved.
         </p>
       </div>
 
-      <div className="flex justify-around w-1/6">
+      <div className="flex gap-2 justify-center md:justify-around md:w-1/6">
         <a href="https://github.com/saffi-786">
           <FontAwesomeIcon icon={faGithub} />
         </a>

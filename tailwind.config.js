@@ -4,6 +4,7 @@ export default {
   theme: {
     fontFamily: {
       patua: ["Patua One"],
+      roboto: ["Roboto Slab"],
     },
     extend: {},
   },

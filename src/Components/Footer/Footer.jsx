@@ -143,7 +143,7 @@ function Footer() {
     //   </div>
     // </section>
 
-    <section className="md:flex md:justify-between text-center bg-amber-200 fixed bottom-0 w-full overflow-hidden py-3">
+    <section className="md:flex md:justify-between text-center bg-amber-200 fixed bottom-0 w-full overflow-hidden py-1 md:py-3">
       <div>
         <p className="text-sm text-slate-700 pl-5">
           &copy; Copyright 2023. All Rights Reserved.
